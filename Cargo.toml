@@ -2,5 +2,7 @@
 name = "ant"
 version = "0.0.1"
 authors = ["Harrison Chin <inbox@harrisonchin.com>"]
+description = "A Rust crate providing an interoperable library interface for the ANT Wireless Protocol."
+license = "Apache-2.0"
 
 [dependencies]
